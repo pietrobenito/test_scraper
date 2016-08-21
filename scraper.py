@@ -2,6 +2,7 @@
 # including some code snippets below that you should find helpful
 
 import scraperwiki
+import sqlite3
 # import lxml.html
 #
 # # Read in a page
